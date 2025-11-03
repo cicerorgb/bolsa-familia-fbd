@@ -1,0 +1,9 @@
+# Ignorar arquivos de dados brutos
+data/raw/*.csv
+
+# Ignorar arquivos de metadados do macOS
+.DS_Store
+data/.DS_Store
+
+# Ignorar arquivos de unificação de .csv
+unifica-arquivos.py
